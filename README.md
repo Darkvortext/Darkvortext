@@ -11,7 +11,7 @@
 - **Advanced AI Projects:** Engaging in projects involving **Stable Diffusion** and **OpenCV** to push the frontiers of technology.
 
 ## 📫 How to Reach Me:
-- [Your Email](mailto:darktortext@gmail.com)
+- [Darkvotext](mailto:darktortext@gmail.com)
 
 
 ---
